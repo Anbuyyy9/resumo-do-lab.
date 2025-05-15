@@ -1,19 +1,52 @@
-# resumo-do-lab.
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
-Apresentar um overview dos serviços em nuvem oferecidos pela plataforma Azure, com foco nos serviços mais utilizados e suas principais funcionalidades.
+# Resumo do Lab - Serviços em Nuvem Azure
 
-Serviços Destacados:
+Este repositório contém um resumo das lições aprendidas durante o desenvolvimento do lab na plataforma **Microsoft Azure** oferecido pela DIO. O objetivo é apresentar um overview dos principais serviços em nuvem disponíveis no Azure, com foco nos serviços mais utilizados e suas funcionalidades.
 
-Máquinas Virtuais (Virtual Machines): Permite criar máquinas virtuais personalizadas com diferentes sistemas operacionais e configurações, proporcionando flexibilidade para executar diversos tipos de aplicações.
-Armazenamento: Oferece diversas opções de armazenamento, como discos virtuais, armazenamento de blobs e filas, para armazenar dados de forma segura e escalável.
-Redes Virtuais: Permite criar redes privadas virtuais isoladas para conectar seus recursos na nuvem de forma segura.
-Bancos de Dados: Disponibiliza diversos serviços de banco de dados, como SQL Server, Cosmos DB e PostgreSQL, para armazenar e gerenciar dados de forma eficiente.
-Serviços de Aplicação: Permite criar e hospedar aplicações web e de back-end, utilizando tecnologias como containers e funções sem servidor.
-Outros Serviços Relevantes:
+---
 
-Contêineres: Permite executar aplicações em contêineres Docker, facilitando o desenvolvimento e a implantação de aplicações.
-Serviços de Integração: Permite conectar diferentes sistemas e aplicativos, facilitando a integração de dados e processos.
-Inteligência Artificial: Oferece uma variedade de serviços de IA, como Machine Learning e Visão Computacional, para criar aplicações inteligentes.
-Conclusão:
+## Serviços Destacados
 
-A plataforma Azure oferece uma ampla gama de serviços em nuvem, permitindo que desenvolvedores e empresas criem e implantem aplicações de forma rápida e escalável. Os serviços destacados neste resumo representam apenas uma pequena parte do que a plataforma oferece, e a escolha dos serviços a serem utilizados dependerá das necessidades específicas de cada projeto.
+### 1. Máquinas Virtuais (Virtual Machines)
+Permite criar máquinas virtuais personalizadas com diferentes sistemas operacionais e configurações, proporcionando flexibilidade para executar diversos tipos de aplicações.
+
+### 2. Armazenamento
+Oferece diversas opções para armazenamento seguro e escalável, como:
+- Discos virtuais
+- Armazenamento de blobs
+- Filas
+
+### 3. Redes Virtuais
+Permite criar redes privadas virtuais isoladas, garantindo a conexão segura entre recursos na nuvem.
+
+### 4. Bancos de Dados
+Disponibiliza diversos serviços para armazenamento e gerenciamento eficiente de dados, incluindo:
+- SQL Server
+- Cosmos DB
+- PostgreSQL
+
+### 5. Serviços de Aplicação
+Facilita a criação e hospedagem de aplicações web e back-end, com suporte a tecnologias como containers e funções serverless (sem servidor).
+
+---
+
+## Outros Serviços Relevantes
+
+- **Contêineres:** Execução e orquestração de aplicações em contêineres Docker, facilitando o desenvolvimento e a implantação.
+- **Serviços de Integração:** Integração de sistemas e aplicativos para automação de processos e troca de dados.
+- **Inteligência Artificial:** Serviços como Machine Learning e Visão Computacional para desenvolver aplicações inteligentes e inovadoras.
+
+---
+
+## Conclusão
+
+A plataforma Azure oferece uma vasta gama de serviços em nuvem, permitindo que desenvolvedores e empresas criem, implementem e escalem aplicações com rapidez e segurança. Os serviços destacados neste resumo representam apenas uma parte do ecossistema Azure, sendo a escolha dos serviços ideal adaptada às necessidades específicas de cada projeto.
+
+---
+
+## Autor
+
+[github.com/Anbuyyy9](https://github.com/Anbuyyy9)
+
+---
+
+Obrigado por acompanhar este resumo! 🚀
